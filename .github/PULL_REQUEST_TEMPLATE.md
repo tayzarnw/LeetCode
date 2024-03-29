@@ -14,7 +14,7 @@ labels: 'leetcode'
 <!-- Explain the time complexity of your solution -->
 
 ### Space Complexity
-<!-- Explain the space complexity of your solution -->
+<!-- Explain the space complexity of your solutions -->
 
 ### Additional Notes
 <!-- Add any other notes or references you used while solving this problem -->
