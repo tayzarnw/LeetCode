@@ -11,7 +11,7 @@ class Solution:
         current = head
         previous = dummy
 
-        while current and current.next:
+        while current:
             while current.next and current.val == current.next.val:
                 current = current.next
 
